@@ -1,0 +1,56 @@
+body {
+  font-family: "Helvetica Neue", Arial, sans-serif;
+  margin: 0 auto;
+  max-width: 750px;
+  padding: 40px 48px;
+  border: 1px solid #000;
+}
+
+address {
+  font-style: normal;
+  text-align: center;
+}
+
+hr {
+  border: none;
+  height: 2px;
+  background: #000;
+  margin: 0 0 32px;
+}
+
+h1 {
+  margin: 0;
+  font-size: 45px;
+  font-weight: 700;
+  text-align: center;
+}
+
+.subtitle {
+  color: #27ae60;
+  font-weight: 600;
+  margin-top: 4px;
+  margin-bottom: 24px;
+}
+
+section {
+  margin-bottom: 32px;
+}
+
+section h2 {
+  font-size: 1rem;
+  color: #27ae60;
+  margin-bottom: 8px;
+}
+
+.entry-title {
+  color: #0077c2;
+  font-weight: 600;
+}
+
+ul {
+  margin: 8px 0 0 20px;
+}
+
+.skills-list {
+  margin: 0;
+}
